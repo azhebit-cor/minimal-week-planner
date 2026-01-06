@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/date.ts","./src/dnd.ts","./src/main.tsx","./src/storage.ts","./src/types.ts","./src/ui/components/daycolumn.tsx","./src/ui/components/inboxscreen.tsx","./src/ui/components/itemrow.tsx","./src/ui/components/monthscreen.tsx","./src/ui/components/topnav.tsx","./src/ui/components/typetoggle.tsx","./src/ui/components/weekscreen.tsx"],"version":"5.9.3"}

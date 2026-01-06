@@ -102,8 +102,6 @@ export function WeekScreen(props: {
             You can create items in Inbox (Inbox tab), then schedule them here by drag & drop.
           </div>
 
-          {/* ensure toggle handler is referenced (ItemRow uses it via renderItem) */}
-          <div style={{ display: "none" }}>{onToggleComplete}</div>
         </div>
 
         {/* Main 2x4 grid */}

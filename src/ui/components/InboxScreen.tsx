@@ -53,9 +53,6 @@ export function InboxScreen(props: {
       <div style={{ marginTop: 10 }} className="small">
         Tip: todos can be completed in Inbox too (checkbox). Completed items remain visible.
       </div>
-
-      {/* Completion handler is passed down via ItemRow in the shared renderer */}
-      <div style={{ display: "none" }}>{onToggleComplete}</div>
     </div>
   );
 }
