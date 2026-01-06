@@ -68,6 +68,17 @@ It’s closer to a paper planner than a task manager.
 - No backend
 - No auth
 
+## Feedback
+
+If you try this and have thoughts — good or bad — feedback is very welcome.
+
+Questions I’m especially interested in:
+- What feels natural?
+- What feels awkward or slow?
+- Would you use this weekly?
+
+If you’re interested in collaborating, feel free to open an issue or reach out.
+
 ## Live demo
 
 https://minimal-week-planner.vercel.app/
@@ -79,14 +90,3 @@ No signup. Data is stored locally in your browser.
 ```bash
 npm install
 npm run dev
-
-## Feedback
-
-If you try this and have thoughts — good or bad — feedback is very welcome.
-
-Questions I’m especially interested in:
-- What feels natural?
-- What feels awkward or slow?
-- Would you use this weekly?
-
-If you’re interested in collaborating, feel free to open an issue or reach out.
